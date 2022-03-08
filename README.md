@@ -4,7 +4,7 @@
 
 Basic
 
-![mission_basic_1-1](./1차/Basic/Mission_basic_1-1.png)
+
 ![mission_basic_1-2](./1차/Basic/Mission_basic_1-2.png)
 ![mission_basic_1-3](./1차/Basic/Mission_basic_1-3.png)
 
@@ -17,8 +17,6 @@ Challenge
 
 Basic
 
-- 사진
+![mission_basic_2-1](./2차/Basic/Mission_Basic_2-1.png)
+![mission_basic_2-2](./2차/Basic/Mission_Basic_2-2.png)
 
-Chaellenge
-
-- 사진
