@@ -4,11 +4,14 @@
 
 Basic
 
-- 사진
+![mission_basic_1-1](./1차/Basic/Mission_basic_1-1.png)
+![mission_basic_1-2](./1차/Basic/Mission_basic_1-2.png)
+![mission_basic_1-3](./1차/Basic/Mission_basic_1-3.png)
 
-Chaellenge
+Challenge
 
-- 사진
+![mission_challenge_1-1](./1차/Challenge/Mission_challenge_1-1.png)
+![mission_challenge_1-2](./1차/Challenge/Mission_challenge_1-2.png)
 
 ### 2차 미션 스크린샷
 
